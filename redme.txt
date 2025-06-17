@@ -1,0 +1,17 @@
+[
+  {
+    "context": [
+      "/dataMartGC",
+      "/service",
+      "/userManagement",
+      "/am",
+      "/viewCopy",
+      "/la",
+      "/tsc",
+      "/tsu"
+    ],
+    "target": "https://elm-dev.nxp.com",
+    "changeOrigin": true,
+    "secure": false
+  }
+]
