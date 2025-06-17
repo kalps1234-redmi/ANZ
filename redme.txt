@@ -15,3 +15,7 @@
     "secure": false
   }
 ]
+
+
+in package json file add this line
+"proxy": "https://elm-dev.nxp.com",
